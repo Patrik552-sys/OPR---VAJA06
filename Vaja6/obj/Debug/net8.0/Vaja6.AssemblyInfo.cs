@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vaja6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b805557c01e9ebc754d139af985cdbc9610790ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+608a0b6992db9217aaff120857ae5693adbc0f43")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vaja6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vaja6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
