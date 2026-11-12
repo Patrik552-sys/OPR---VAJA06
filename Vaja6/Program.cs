@@ -20,6 +20,7 @@ namespace vaja6 {
             id = stIg;
             stIg++;
         }
+		// omogoča vpis podatkov v igralec
 
         public int Id {
             get
@@ -27,6 +28,7 @@ namespace vaja6 {
                 return id;
             }
         }
+		// vrne st. id
 
         public string U_ime {
             get
@@ -38,6 +40,7 @@ namespace vaja6 {
                 u_ime = value.Trim();
             }
         }
+		//spremeni ime in vrne novo ime
 
         public string U_geslo
         {
@@ -50,6 +53,7 @@ namespace vaja6 {
                 u_geslo = value.Trim();
             }
         }
+		//spremeni geslo
 
         public static int StIg
         {
